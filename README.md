@@ -17,3 +17,14 @@ Celeb-A dataset, containing photos of celebrities. Available at: https://www.kag
 - numpy
 - matplotlib
 - opencv
+
+Whole work was done locally on Acer Aspire 7 laptop, running on Ubuntu 18.04, with NVIDIA GeForce GTX 1060 GPU (6GB VRAM)
+
+### Results
+
+These are some of best images I was able to generate: 
+
+![Screenshot](GAN1.png)
+
+![Screenshot](GAN2.png)
+
