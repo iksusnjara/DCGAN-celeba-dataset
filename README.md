@@ -24,7 +24,7 @@ Whole work was done locally on Acer Aspire 7 laptop, running on Ubuntu 18.04, wi
 
 These are some of best images I was able to generate: 
 
-![Screenshot](GAN1.png)
+![Screenshot](GAN1.png) ![Screenshot](GAN2.png)
 
-![Screenshot](GAN2.png)
+
 
